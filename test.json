@@ -1,8 +1,54 @@
 {
-  "sizes": [
-    {"size": "S", "price": 2},
-    {"size": "M", "price": 3},
-    {"size": "L", "price": 4},
-    {"size": "XL", "price": 5}
+  "sizeCharts": [
+    {
+      "type": "hoodie",
+      "sizes": [
+        {
+          "size": "S",
+          "chestWidth": "20 inches",
+          "length": "26 inches"
+        },
+        {
+          "size": "M",
+          "chestWidth": "22 inches",
+          "length": "27 inches"
+        },
+        {
+          "size": "L",
+          "chestWidth": "24 inches",
+          "length": "28 inches"
+        },
+        {
+          "size": "XL",
+          "chestWidth": "26 inches",
+          "length": "29 inches"
+        }
+      ]
+    },
+    {
+      "type": "t-shirt",
+      "sizes": [
+        {
+          "size": "S",
+          "chestWidth": "18 inches",
+          "length": "25 inches"
+        },
+        {
+          "size": "M",
+          "chestWidth": "20 inches",
+          "length": "26 inches"
+        },
+        {
+          "size": "L",
+          "chestWidth": "22 inches",
+          "length": "27 inches"
+        },
+        {
+          "size": "XL",
+          "chestWidth": "24 inches",
+          "length": "28 inches"
+        }
+      ]
+    }
   ]
 }
