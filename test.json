@@ -1,0 +1,8 @@
+{
+  "sizes": [
+    {"size": "S", "price": 2},
+    {"size": "M", "price": 3},
+    {"size": "L", "price": 4},
+    {"size": "XL", "price": 5}
+  ]
+}
